@@ -7,3 +7,5 @@ pathfinder(1, 1) -> []
 pathfinder(2, 2) -> [’RD’, ’DR’]
 pathfinder(1, 9) -> [’DDDDDDDD’]
 pathfinder(3, 3) -> [’RRDD’, ’RDRD’, ’RDDR’, ’DRRD’, ’DRDR’, ’DDRR’]
+$Game 2: you can code to draw a flower here, the length and how dense your flower based on your decision.
+&Game 3: you can code to draw a star here, the length and number of angles of your star based on your decision.
